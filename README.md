@@ -1,1 +1,1 @@
-# arim-sales-predicition
+# arima-sales-predicition
